@@ -1,0 +1,10 @@
+h1{
+    text-align: center;
+}
+
+.form-group{
+    display: inline;
+}
+label{
+    z-index: auto;
+}
